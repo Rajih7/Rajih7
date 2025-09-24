@@ -65,7 +65,7 @@ Check out my pinned **“Awesome Bug Bounty”** repo for my personal notes, pay
 ## 🤝 Connect with Me
 - **LinkedIn:** [linkedin.com/in/rajih7](https://www.linkedin.com/in/rajih7)  
 - **Portfolio:** [rajih7.github.io/Portfolio](https://rajih7.github.io/Portfolio)  
-- **Email:** rajih@example.com  
+- **Email:** rajih2001@gmail.com
 
 ---
 
