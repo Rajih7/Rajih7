@@ -1,4 +1,4 @@
-# Hi, I'm Rajih 👋
+# Hi, I'm Rajih N👋
 Cybersecurity enthusiast | Full-Stack Developer | Bug Bounty Hunter  
 
 Welcome to my GitHub! I’m passionate about web security, cloud computing, and building secure applications. Here, I share my projects, bug bounty labs, and resources for learning ethical hacking and web development.
